@@ -1,0 +1,15 @@
+.background-home{
+    background-image: url('../img/21252.jpg');
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.background-login{
+
+    background-image: url('../img/min2.png');
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+}
